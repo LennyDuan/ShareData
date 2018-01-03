@@ -1,3 +1,8 @@
 Question
 
+1. String: unique id 
+2. String: Txt
+3. AnswerTxt: Array[String]
+4. AnswerNum: Array[Int]
+
 User
