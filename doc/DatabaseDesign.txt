@@ -14,5 +14,9 @@ User
 4. UserInfo: UserInfo
 
 UserInfo
+1. Name
+2. Mobile
+3. Male
+
 
 
