@@ -1,8 +1,18 @@
 Question
 
-1. String: unique id 
-2. String: Txt
+1. Unique id: String
+2. Txt: String
 3. AnswerTxt: Array[String]
 4. AnswerNum: Array[Int]
+5. Author: User
 
 User
+
+1. Unique id: String
+2. String: Account
+3. String: Password
+4. UserInfo: UserInfo
+
+UserInfo
+
+
