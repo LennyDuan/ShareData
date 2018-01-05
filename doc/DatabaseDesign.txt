@@ -18,7 +18,5 @@ UserInfo
 2. Mobile
 3. Male
 4. Questions: Array[String]
-4. : Array[String]
-
-
+4. Votes: Array[String]
 
