@@ -20,3 +20,4 @@ UserInfo
 4. Questions: Array[String]
 4. Votes: Array[String]
 
+May need a Vote Object
