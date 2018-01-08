@@ -21,3 +21,4 @@ UserInfo
 4. Votes: Array[String]
 
 May need a Vote Object - We need a Vote Object
+Need time to think about it
