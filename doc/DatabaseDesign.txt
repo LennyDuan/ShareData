@@ -1,5 +1,6 @@
 Question
 
+
 1. Unique id: String
 2. Txt: String
 3. AnswerTxt: Array[String]
@@ -28,3 +29,4 @@ Vote
 2. ...
 3.
 4.
+5. 
