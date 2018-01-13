@@ -22,7 +22,7 @@ UserInfo
 
 May need a Vote Object - We need a Vote Object
 Need time to think about it
-
+Need to think about the relationship and rewrite question object.
 Vote
 1. Unique id: String
 2. Question: String
